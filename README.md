@@ -31,5 +31,5 @@
  - This assignment uses Jupyter Notebook and Visual Notebook to the provided data and obtain the required information
 ### Acknowledgements
  - API SQLite
- - Jupyter Notebool
+ - Jupyter Notebook
  - Visual Studio
