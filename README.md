@@ -28,7 +28,7 @@
      - Queries the dates and temperature observations of the most active station for the previous year of data
      - Returns a JSON list of Minimum, Average and Maximum temperatures for a specified start and start-end range
 ### Getting Started
- - This assignment uses Jupyter Notebook and Visual Notebook to the provided data and obtain the required information
+ - This assignment uses Jupyter Notebook and Visual Studio to the provided data and obtain the required information
 ### Acknowledgements
  - API SQLite
  - Jupyter Notebook
